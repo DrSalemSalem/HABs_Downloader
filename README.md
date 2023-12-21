@@ -34,16 +34,16 @@ git clone https://github.com/RS-ML-Hub/HABs_Downloader.git
 ```
 
 ## Script Workflow
-- ***Step 1:*** **Configure Dates**: Edit the **YYYYMMDD_s** and **YYYYMMDD_e** variables in **HABs_Data_Downloader.py** to set the start and end dates.
+***Step 1:*** **Configure Dates** by editing the **YYYYMMDD_s** and **YYYYMMDD_e** variables in **HABs_Data_Downloader.py** to set the start and end dates.
 - **YYYYMMDD_s**: Start date in "YYYY/MM/DD" format. (e.g., "2023/01/01")
 - **YYYYMMDD_e**: End date in "YYYY/MM/DD" format.   (e.g., "2023/09/30")
 
-2. **Run the script**
+***Step 1:*** **Run the script**
 ```
 python HABs_Data_Downloader.py
 ```
 
-3. **CSV Output**: A CSV file named HABs__{YYYYMMDD_s}_{YYYYMMDD_e}.csv (e.g., HABs__20230101_20230930.csv) will be generated in the script's directory.
+***Step 1:*** **CSV Output**: A CSV file named HABs__{YYYYMMDD_s}_{YYYYMMDD_e}.csv (e.g., HABs__20230101_20230930.csv) will be generated in the script's directory.
 
 
 
