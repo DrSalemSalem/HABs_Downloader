@@ -11,8 +11,8 @@
 - For other species, please contact us: salem.ibrahim@kuas.ac.jp
   
 ## Dependencies
-- This code was developed using Windows 11 and Python 3.10. 
-- We recommend creating a new conda environment and installing the required dependencies.
+We recommend creating a new conda environment and installing the required dependencies.
+
 ***Installation steps:***
 - ***Step 1:*** On Windows open up a Anaconda Prompt, on Linux and MacOS open up a Terminal.
 
