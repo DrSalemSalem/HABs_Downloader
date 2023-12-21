@@ -11,9 +11,19 @@
 - For other species, please contact us: salem.ibrahim@kuas.ac.jp
   
 ## Dependencies
-This code was developed using Windows 11 and Python 3.10. We recommend creating a new conda environment and installing the required dependencies with the following commands:
+- This code was developed using Windows 11 and Python 3.10. 
+- We recommend creating a new conda environment and installing the required dependencies.
+***Installation steps:***
+- ***Step 1:*** On Windows open up a Anaconda Prompt, on Linux and MacOS open up a Terminal.
+
+- ***Step 2:*** Create the environment  
 ```
 conda env create -f environment.yml
+``` 
+
+- ***Step 3:*** Activate the environment 
+
+```
 conda activate HABs_env
 ```
 
