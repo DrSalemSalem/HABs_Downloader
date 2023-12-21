@@ -27,7 +27,7 @@ conda env create -f environment.yml
 conda activate HABs_env
 ```
 
-## Running the code
+## Download the code
 - **Clone the repository**
 ```
 git clone https://github.com/RS-ML-Hub/HABs_Downloader.git
